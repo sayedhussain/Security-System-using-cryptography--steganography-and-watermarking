@@ -9,10 +9,6 @@ package my.projectUI;
  * @author sayed shazeb
  */
 
-/*
- *@author William_Wilson
- *@version 2.0
- *Created May 10, 2007
  */
 
 /*
